@@ -1,0 +1,6 @@
+Activation Function,Validation Accuracy
+tanh_exp,0.6877999901771545
+tanh_lambert,0.11230000108480453
+tanh_modified_cf,0.6729999780654907
+tanh_poly,0.679099977016449
+tanh_simplified_poly,0.6841999888420105
